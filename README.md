@@ -2,8 +2,8 @@
 <h3 align="center">A passionate software developer with a love for building innovative solutions.</h3>
 <img align="right" alt="coding" width="400" src="[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaalharir" alt="kaalharir" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaalharir&label=Profile%20views&color=0e75b6&style=flat" alt="kaalharir" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 - 🔭 I’m currently working on [Tournment tracker](https://github.com/kaalharir/ChampionCrafters)
 
