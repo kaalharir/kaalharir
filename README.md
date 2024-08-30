@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@Kaal](https://hashnode.com/@Kaal)
 
-- 📄 Know about my experiences [kaal80.github.io](kaal80.github.io)
+- 📄 Know about my experiences [https://kaalharir.github.io/](kaalharir.github.io)
 
 - ⚡ Fun fact **Juggling between code, coffee, and a good book. Always looking for book recommendations—especially if they're about coding cats. 📚☕🐱**
 
